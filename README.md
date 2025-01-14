@@ -1,1 +1,2 @@
-Hi, I am practicing Python.
+Hi 👋
+I am practicing Python.
