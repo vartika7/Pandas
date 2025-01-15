@@ -1,4 +1,4 @@
 *.env
 tmp*
 .user.yml
-*DS_Store*
+.DS_Store
