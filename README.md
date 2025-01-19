@@ -1,3 +1,2 @@
-Hi 👋 <br>
-I am practicing  
-# Pandas
+# Hi 👋 <br>
+#### I am practicing Pandas
